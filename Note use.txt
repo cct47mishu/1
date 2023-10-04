@@ -1,0 +1,4 @@
+install 3 cmd
+pip install pandas pdfkit imgkit
+pip install pdfkit
+pip install imgkit
